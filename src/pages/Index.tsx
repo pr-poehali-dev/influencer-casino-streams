@@ -144,7 +144,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <nav className="flex items-center justify-between">
             <div className="font-gaming text-2xl font-bold text-gaming-purple">
-              GAMING<span className="text-gaming-orange">INFLUENCE</span>
+              COLBYE<span className="text-gaming-orange">AGENCY</span>
             </div>
             <div className="hidden md:flex space-x-8">
               {["Главная", "Наши стримеры", "Услуги", "Кейсы", "Тарифы", "Контакты"].map((item) => (
@@ -451,7 +451,7 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <div className="font-gaming text-2xl font-bold text-gaming-purple mb-4">
-                GAMING<span className="text-gaming-orange">INFLUENCE</span>
+                COLBYE<span className="text-gaming-orange">AGENCY</span>
               </div>
               <p className="text-gray-400 text-sm">
                 Агентство №1 по работе с инфлюенсерами казино-стриминга
@@ -498,7 +498,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gaming-purple/20 mt-8 pt-8 text-center text-gray-400 text-sm">
-            © 2024 GamingInfluence. Все права защищены.
+            © 2024 Colbye Agency. Все права защищены.
           </div>
         </div>
       </footer>
