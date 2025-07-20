@@ -9,33 +9,93 @@ const Index = () => {
   const streamers = [
     {
       id: 1,
-      name: "CasinoKing_TTV",
+      name: "xQcOW",
       platform: "Twitch",
-      followers: "124K",
-      engagement: 8.4,
-      revenue: "$15,200",
-      games: ["Poker", "Blackjack", "Slots"],
+      followers: "1.2M",
+      engagement: 9.5,
+      revenue: "$45,600",
+      games: ["Slots", "Blackjack", "Poker"],
       status: "live"
     },
     {
       id: 2,
-      name: "SlotMaster_Kick",
-      platform: "Kick",
-      followers: "89K",
-      engagement: 7.2,
-      revenue: "$11,800",
-      games: ["Slots", "Roulette", "Baccarat"],
-      status: "offline"
+      name: "Trainwreckstv",
+      platform: "Twitch",
+      followers: "890K",
+      engagement: 8.8,
+      revenue: "$38,200",
+      games: ["Slots", "Poker", "Roulette"],
+      status: "live"
     },
     {
       id: 3,
-      name: "PokerPro_Live",
+      name: "Sodapoppin",
       platform: "Twitch",
-      followers: "156K",
-      engagement: 9.1,
-      revenue: "$18,600",
-      games: ["Poker", "Texas Hold'em"],
+      followers: "2.8M",
+      engagement: 7.9,
+      revenue: "$52,000",
+      games: ["Variety Gaming", "Slots"],
+      status: "offline"
+    },
+    {
+      id: 4,
+      name: "Mizkif",
+      platform: "Twitch",
+      followers: "2.1M",
+      engagement: 8.6,
+      revenue: "$41,800",
+      games: ["Casino Games", "React Content"],
       status: "live"
+    },
+    {
+      id: 5,
+      name: "HasanAbi",
+      platform: "Twitch",
+      followers: "2.3M",
+      engagement: 8.2,
+      revenue: "$36,500",
+      games: ["Poker", "Political Commentary"],
+      status: "offline"
+    },
+    {
+      id: 6,
+      name: "Tyler1",
+      platform: "Twitch",
+      followers: "5.1M",
+      engagement: 9.3,
+      revenue: "$48,900",
+      games: ["Variety", "Gambling"],
+      status: "live"
+    },
+    {
+      id: 7,
+      name: "Ludwig",
+      platform: "Twitch",
+      followers: "3.2M",
+      engagement: 8.7,
+      revenue: "$44,200",
+      games: ["Poker", "Chess", "Variety"],
+      status: "offline"
+    },
+    {
+      id: 8,
+      name: "Asmongold",
+      platform: "Twitch",
+      followers: "3.4M",
+      engagement: 8.4,
+      revenue: "$39,600",
+      games: ["MMO", "Slots", "React"],
+      status: "live"
+    },
+    {
+      id: 9,
+      name: "NICKMERCS",
+      platform: "Twitch",
+      followers: "6.7M",
+      engagement: 9.1,
+      revenue: "$55,300",
+      games: ["FPS", "Casino", "Sports Betting"],
+      status: "offline"
     }
   ];
 
