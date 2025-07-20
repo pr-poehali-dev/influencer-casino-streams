@@ -251,10 +251,7 @@ const Index = () => {
                       <Progress value={streamer.engagement * 10} className="h-2" />
                     </div>
                     
-                    <div className="flex justify-between items-center">
-                      <span className="text-sm text-gray-400">Месячный доход:</span>
-                      <span className="font-gaming text-gaming-orange font-bold">{streamer.revenue}</span>
-                    </div>
+
                     
                     <div>
                       <div className="text-sm text-gray-400 mb-2">Игры:</div>
